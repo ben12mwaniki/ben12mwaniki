@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ben12mwaniki
-- 👀 I’m interested in fintech
+- 👀 I’m interested in cool projects
 - 🌱 I’m currently learning software engineering practices
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me: ben12mwaniki@gmail.com
