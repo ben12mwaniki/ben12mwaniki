@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ben12mwaniki
-- 👀 I’m interested in machine learning, java, python, android, react, js 
+- 👀 I’m interested in machine learning, backend and webdev
 - 🌱 I’m currently learning hugging face 🤗
-- 💞️ I’m looking to collaborate on mobile development
+- 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me: //
 
 <!---
