@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, backend and webdev
 - 🌱 I’m currently playing with hugging face 🤗
 - 💞️ I’m looking to collaborate on android development
-- 📫 How to reach me: //
+- 📫 How to reach me: //ben12mwaniki@proton.me
 
 <!---
 ben12mwaniki/ben12mwaniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
