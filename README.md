@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ben12mwaniki
-- 👀 I’m interested in machine learning, gamedev, cybersecurity
+- 👀 I’m interested in webdev, machine learning, gamedev, cybersecurity, open source
 - 🌱 I’m currently playing with Godot engine 🤗
-- 💞️ I’m looking to collaborate on game dev
+<!-- 💞️ I’m looking to collaborate on -->
 - 📫 How to reach me: ben12mwaniki@proton.me
 
 <!---
